@@ -11,7 +11,6 @@ import javax.ws.rs.client.ClientBuilder;
 import javax.ws.rs.client.InvocationCallback;
 import javax.ws.rs.core.Application;
 import javax.ws.rs.core.Response;
-
 import java.util.concurrent.Future;
 
 public class AsyncResourceTest extends JerseyTest {
