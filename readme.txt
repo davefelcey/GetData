@@ -1,1 +1,1 @@
-My test project - made other changes
+My test project - made other changes and merged some
